@@ -61,7 +61,7 @@ console.log(taula[15]);
 
 // 21.7.- Fes un programa que escrigui a la consola tots els valors emmagatzemats a la
 // taula, un a un.
-for(let i = )
+for(let i = 1; i = taula.length)
 
 // 21.8.- Fes un programa que escrigui a la consola la suma tots els valors
 // emmagatzemats a la taula.
